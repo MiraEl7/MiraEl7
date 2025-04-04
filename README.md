@@ -43,8 +43,9 @@ I actively apply tools and technologies such as;
 - 📧 Email: mira.edora7638@gmail.com  
 - 📍 Phone No.: +60 177064160
 - 💼 LinkedIn: <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BXfN41NjGTnC%2Fqz83vUdvjw%3D%3D" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png" width="36" alt="LinkedIn" style="vertical-align:middle;"/>
+  <img src="https://github.com/user-attachments/assets/4727dca4-9065-47ec-bf18-e29e8cdda927" width="36" alt="LinkedIn" style="vertical-align:middle;"/>
 </a>
+ 
 
  
 

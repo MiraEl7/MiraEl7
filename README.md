@@ -61,6 +61,7 @@ and learning about symptoms.
 ---
 
 ## ⚡ Fun Fact:  
+
 Beyond the screen and code, I’m also a **sci-fi novel writer** 📖. I enjoy crafting fictional universes where technology and humanity collide — often inspired by real-world AI, space, and data advances. Storytelling helps me bring creativity into my technical work, bridging logic with imagination.  
 
 ---

@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate and curious tech enthusiast pursu
 
 --- 
 
-I actively apply tools and technologies such as:
+I actively apply tools and technologies such as;
 
 **Languages/Frameworks 💼:**
 <p margin-left="100">
@@ -18,6 +18,7 @@ I actively apply tools and technologies such as:
 </p>
   
 **Databases & Tools 💼:** 
+
 <a href="https://www.google.com/imgres?q=MYSQL&imgurl=https%3A%2F%2Fimages.tpointtech.com%2Fmysql%2Fimages%2Fmysql-tutorial.png&imgrefurl=https%3A%2F%2Fwww.tpointtech.com%2Fmysql-tutorial&docid=VkzcY7bVz3zyhM&tbnid=wBy8sXFVErkeQM&vet=12ahUKEwiBiPDvzL2MAxUKy6ACHS0zOa8QM3oFCIQBEAA..i&w=200&h=200&hcb=2&itg=1&ved=2ahUKEwiBiPDvzL2MAxUKy6ACHS0zOa8QM3oFCIQBEAA">
     <img src="https://images.tpointtech.com/mysql/images/mysql-tutorial.png" width="36" alt="MySQL logo" style="vertical-align:middle;"/>
 </a>
@@ -26,10 +27,13 @@ I actively apply tools and technologies such as:
 <img src="https://github.com/user-attachments/assets/6120ee53-e96f-419b-a92b-133f475c7d80" width="36" alt="symbol3" style="vertical-align:middle; display:inline;"/>
 
 **Design & UI/UX 💼:** 
+
 <img src="https://github.com/user-attachments/assets/10bee002-d4c7-4d49-a4ae-4a0e4861d13e" width="36" alt="symbol1" style="vertical-align:middle; display:inline;"/>
 <img src="https://github.com/user-attachments/assets/5ae16aa0-08d5-44f8-8b0a-770435a87bcb" width="36" alt="symbol2" style="vertical-align:middle; display:inline;"/>
 
-**Development Environments 💼:** <img src="https://github.com/user-attachments/assets/7b9ba5cf-7fbe-4b13-a174-b9c80b709cdf" width="36" alt="symbol1" style="vertical-align:middle; display:inline;"/>
+**Development Environments 💼:** 
+
+<img src="https://github.com/user-attachments/assets/7b9ba5cf-7fbe-4b13-a174-b9c80b709cdf" width="36" alt="symbol1" style="vertical-align:middle; display:inline;"/>
 <img src="https://github.com/user-attachments/assets/1b7d882e-5077-4ec7-8d41-a6735d0bda42" width="36" alt="symbol2" style="vertical-align:middle; display:inline;"/>
 <img src="https://github.com/user-attachments/assets/7a3e2c0a-3964-414c-98bf-d8686b7947c1" width="36" alt="symbol3" style="vertical-align:middle; display:inline;"/>
 

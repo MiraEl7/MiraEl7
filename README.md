@@ -4,7 +4,7 @@
 </p>
 
 
-Welcome to my GitHub profile! I'm a passionate and curious tech enthusiast pursuing my Master's in Data Science. 
+Welcome to my GitHub profile! I'm a passionate and curious tech enthusiast pursuing my Master's in Data Science currently at University Technology Malaysia.
 
 --- 
 
@@ -38,11 +38,20 @@ I actively apply tools and technologies such as;
 <img src="https://github.com/user-attachments/assets/7a3e2c0a-3964-414c-98bf-d8686b7947c1" width="36" alt="symbol3" style="vertical-align:middle; display:inline;"/>
 
 ---
+**🏫 Education:**
+- Bachelor's Degree in Information System Engineering: Oct 2021 - Mac 2025
+- Master in Data Science: Apr 2025 - Present
 
+---
+**🌱 Fun Facts**
+Writing is my outlet, a way to ease stress and reflect. I'm also deeply interested in mental health, especially in understanding how the mind works, recognizing emotional patterns, 
+and learning about symptoms. 
+
+---
 ## 📫 How to reach me:  
 - 📧 Email: mira.edora7638@gmail.com  
 - 📍 Phone No.: +60 177064160
-- 💼 LinkedIn: <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BXfN41NjGTnC%2Fqz83vUdvjw%3D%3D" target="_blank">
+<a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BXfN41NjGTnC%2Fqz83vUdvjw%3D%3D" target="_blank">
   <img src="https://github.com/user-attachments/assets/4727dca4-9065-47ec-bf18-e29e8cdda927" width="30" alt="LinkedIn" style="vertical-align:middle;"/>
 </a>
  

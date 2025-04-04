@@ -10,7 +10,8 @@ Welcome to my GitHub profile! I'm a passionate and curious tech enthusiast pursu
 
 I actively apply tools and technologies such as:
 - **Languages/Frameworks 💼:**
-<img src="https://github.com/user-attachments/assets/1783a5fd-54a0-416e-a168-a0f9c9928193" width="36" style="vertical-align:middle;"/>, <img src="https://github.com/user-attachments/assets/f199f2e2-e4ae-4e93-91b9-6ecc46f18115" width="36" alt="symbol1" style="vertical-align:middle;"/>
+<img src="https://github.com/user-attachments/assets/1783a5fd-54a0-416e-a168-a0f9c9928193" width="36" style="vertical-align:middle;"/>,
+ <img src="https://github.com/user-attachments/assets/f199f2e2-e4ae-4e93-91b9-6ecc46f18115" width="36" alt="symbol1" style="vertical-align:middle;"/>
 <img src="https://github.com/user-attachments/assets/0adc4c52-5c92-4bcb-a03d-ec6d361b5b23" width="36" alt="symbol2" style="vertical-align:middle;"/>
   
 - **Databases & Tools 💼:** MySQL, Laragon, Chart.js, WEKA  

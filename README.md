@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate and curious tech enthusiast pursu
 
 --- 
 
-I actively apply tools and technologies such as:
+I actively apply tools and technologies such as:<be>
 **Languages/Frameworks 💼:**
 <p margin-left="100">
 <img src="https://github.com/user-attachments/assets/1783a5fd-54a0-416e-a168-a0f9c9928193" width="36" style="vertical-align:middle; display:inline;"/>

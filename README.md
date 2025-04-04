@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Mira Edora (MiraEl7)
-![MiraEdoraBintiYunos_ID](https://github.com/user-attachments/assets/fbc820ef-f65f-4892-beaf-fa4985e62d03)
+<img src="https://github.com/user-attachments/assets/fbc820ef-f65f-4892-beaf-fa4985e62d03" alt="MiraEdoraBintiYunos_ID" width="300"/>
 
 Welcome to my GitHub profile! I'm a passionate and curious tech enthusiast currently pursuing my Master's in Data Science. 
 

@@ -1,15 +1,16 @@
 # 👋 Hi there, I'm Mira Edora
-<img src="https://github.com/user-attachments/assets/fbc820ef-f65f-4892-beaf-fa4985e62d03" alt="MiraEdoraBintiYunos_ID" width="300" style="margin-left:500;"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fbc820ef-f65f-4892-beaf-fa4985e62d03" alt="MiraEdoraBintiYunos_ID" width="300"/>
+</p>
 
-Welcome to my GitHub profile! I'm a passionate and curious tech enthusiast currently pursuing my Master's in Data Science. 
 
----
+Welcome to my GitHub profile! I'm a passionate and curious tech enthusiast pursuing my Master's in Data Science. 
 
-## 💼 Professional Background  
-With a strong academic foundation in **Information Systems Engineering** (UiTM Jasin) and experience in developing data-driven applications, I've worked on several impactful projects ranging from **stress monitoring systems** to **food and dental management systems**.  
+--- 
 
 I actively apply tools and technologies such as:
-- **Languages/Frameworks:** PHP, Java, Node.js, C++  
+- **Languages/Frameworks:** ![image](https://github.com/user-attachments/assets/1783a5fd-54a0-416e-a168-a0f9c9928193)
+, Java, Node.js, C++  
 - **Databases & Tools:** MySQL, Laragon, Chart.js, WEKA  
 - **Design & UI/UX:** Figma, Canva, Adobe Photoshop  
 - **Cloud Services:** Heroku  

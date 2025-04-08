@@ -1,10 +1,10 @@
  # 👋 Hi there, I'm Mira Edora
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fbc820ef-f65f-4892-beaf-fa4985e62d03" alt="MiraEdoraBintiYunos_ID" width="300"/>
+  <img src="https://github.com/user-attachments/assets/fbc820ef-f65f-4892-beaf-fa4985e62d03" alt="MiraEdoraBintiYunos_ID" width="280"/>
 </p>
 
 
-Welcome to my GitHub profile! I'm a passionate and curious tech enthusiast pursuing my Master's in Data Science currently at University Technology Malaysia.
+Welcome to my GitHub profile! I'm a passionate and curious tech enthusiast pursuing my Master's in Data Science at the University of Technology Malaysia.
 
 --- 
 
